@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andrea Atzori"
   avatar           : "https://aibd.unica.it/img/team/andrea-atzori.jpg"
-  bio              : 
+  bio              : " - "
   location         : "Cagliari, Italy"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3_Z6fQ4AAAAJ&hl=it&authuser=1"
-  email            : "andrea.atzorigm@gmail.com"
+  email            : "andrea.atzori@unica.it"
   researchgate     : "https://www.researchgate.net/profile/Andrea-Atzori-2"
   uri              :
   bitbucket        :
@@ -100,20 +100,20 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/andrea-atzori-5a599a101/"
+  linkedin         : "andrea-atzori-5a599a101"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6910-206X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/andreaatzori_"
+  twitter          : "andreaatzori_"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCRflLOcKBR8BaOzdjam2dWw"
+  youtube          :
   wikipedia        :
 
 
